@@ -1,6 +1,6 @@
 Summary:	GNUmed client
 Name:		gnumed
-Version:	1.1.6
+Version:	1.1.7
 Release:	1
 License:	GPLv2+
 Group:		Office
