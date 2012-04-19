@@ -1,10 +1,10 @@
 Summary:	GNUmed client
 Name:		gnumed
-Version:	1.1.12
+Version:	1.1.13
 Release:	1
 License:	GPLv2+
 Group:		Office
-Source:		http://www.gnumed.de/downloads/client/%{version}/%{name}-client.%{version}.tgz
+Source0:		http://www.gnumed.de/downloads/client/%{version}/%{name}-client.%{version}.tgz
 URL:		http://wiki.gnumed.de/
 
 BuildArch:	noarch
