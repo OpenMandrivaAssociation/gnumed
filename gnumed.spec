@@ -151,3 +151,26 @@ cp -r client/doc/api/* %{buildroot}%{_defaultdocdir}/%{name}/api
 %doc client/CHANGELOG
 %{_defaultdocdir}/%{name}/user-manual
 %{_defaultdocdir}/%{name}/api
+
+
+%changelog
+* Mon May 21 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 1.1.14-1
++ Revision: 799756
+- update to 1.1.14
+
+* Thu Apr 19 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 1.1.13-1
++ Revision: 792129
+- update to 1.1.13
+
+* Sat Feb 11 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 1.1.12-1
++ Revision: 772844
+- update to 1.1.12
+
+* Sat Dec 17 2011 Dmitry Mikhirev <dmikhirev@mandriva.org> 1.1.7-1
++ Revision: 743195
+- update to 1.1.7
+
+* Fri Dec 02 2011 Dmitry Mikhirev <dmikhirev@mandriva.org> 1.1.6-1
++ Revision: 737176
+- imported package gnumed
+
