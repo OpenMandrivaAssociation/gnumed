@@ -1,7 +1,7 @@
 Summary:	GNUmed client
 Name:		gnumed
 Version:	1.1.14
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Office
 Source0:		http://www.gnumed.de/downloads/client/%{version}/%{name}-client.%{version}.tgz
@@ -9,7 +9,7 @@ URL:		http://wiki.gnumed.de/
 
 BuildArch:	noarch
 
-BuildRequires:	python
+BuildRequires:	pkgconfig(python2)
 BuildRequires:	desktop-file-utils
 
 %description
@@ -36,7 +36,6 @@ Requires:	python >= 2.3
 Requires:	python-psycopg2 >= 2.0.10
 Requires:	java
 Requires:	xsane
-Requires:	python-pyxml
 Requires:	wxPythonGTK >= 2.6.3
 Requires:	libreoffice-pyuno
 Requires:	python-egenix-mx-base
