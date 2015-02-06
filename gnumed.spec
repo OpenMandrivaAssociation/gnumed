@@ -1,7 +1,7 @@
 Summary:	GNUmed client
 Name:		gnumed
 Version:	1.1.14
-Release:	2
+Release:	3
 License:	GPLv2+
 Group:		Office
 Source0:		http://www.gnumed.de/downloads/client/%{version}/%{name}-client.%{version}.tgz
