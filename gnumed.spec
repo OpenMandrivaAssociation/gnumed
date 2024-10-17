@@ -5,7 +5,7 @@ Release:	3
 License:	GPLv2+
 Group:		Office
 Source0:		http://www.gnumed.de/downloads/client/%{version}/%{name}-client.%{version}.tgz
-URL:		http://wiki.gnumed.de/
+URL:		https://wiki.gnumed.de/
 
 BuildArch:	noarch
 
